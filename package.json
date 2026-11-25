@@ -9,18 +9,24 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@tailwindcss/postcss": "^4.3.5",
+    "archiver": "^8.0.0",
+    "cakkatrok-instagram-downloader": "^2.0.2",
     "next": "16.4.6",
+    "p-limit": "^7.3.3",
+    "postcss": "^8.5.33",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "4.3.3",
+    "@types/archiver": "^8.0.0",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.4.6",
-    "tailwindcss": "4.3.3",
+    "tailwindcss": "^4.3.3",
     "typescript": "^5"
   }
 }
